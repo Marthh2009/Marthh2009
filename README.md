@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bom dia!!!  :D
 
-<!--
-**Marthh2009/Marthh2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Aprendendo programação 💾
+- Estudante 📚
+- Muita curiosidade ⭐
 
-Here are some ideas to get you started:
+Eu gosto **bastante** dessa área desde pequeno, e quero fazer muitas coisas *interessantes*!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas que atualmente estou aprendendo:
+- Java (Para possivel formação de carreira no futuro)
+- Scripts Hxc (Hobby de querer fazer mods para FNF)
+
+Redes de contato:
+- E-mail - marceloleonimarth@gmail.com
+- Youtube - https://www.youtube.com/@Marthh2009 (atualmente sem conteúdo)
+
+##!!!Perfil em construção!!! 🛠️ X_X
